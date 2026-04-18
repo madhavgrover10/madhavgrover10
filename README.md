@@ -41,7 +41,7 @@ I specialize in building **end-to-end ML pipelines** — from data preprocessing
 * Achieved **96.4% accuracy** across 6 defect classes
 * End-to-end GPU pipeline with data augmentation
 
-🔗 https://github.com/madhavgrover10/defect-classification-cnn
+🔗 https://github.com/madhavgrover10/Metal-Defect-Classification-CNN
 
 ---
 
@@ -61,7 +61,7 @@ I specialize in building **end-to-end ML pipelines** — from data preprocessing
 * Best model: Prophet (**SMAPE: 16.07%**)
 * 14-day forward forecasting for operational planning
 
-🔗 https://github.com/madhavgrover10/demand-forecasting
+🔗 https://github.com/madhavgrover10/Telecom-Demand-Forecasting-TimeSeries
 
 ---
 
