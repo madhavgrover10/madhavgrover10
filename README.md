@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Madhav Grover</h1>
-<h3 align="center">Data Scientist | Machine Learning | Deep Learning</h3>
+<h3 align="center">Data Scientist | Machine Learning | Production ML</h3>
 
 <p align="center">
-  🚀 ML in Production @ Airtel &nbsp; | &nbsp;
-  🎓 Data Science @ Deakin University &nbsp; | &nbsp;
+  🚀 ML Models Deployed @ Airtel Digital &nbsp; | &nbsp;
+  🎓 Data Science @ Deakin University (Distinction Avg) &nbsp; | &nbsp;
   📍 Melbourne, Australia
 </p>
 
@@ -16,23 +16,30 @@
 
 ## 🧠 About Me
 
-I build **data-driven systems** that solve real-world problems — from predictive models to deep learning applications and forecasting pipelines.
+I’m a Data Scientist with hands-on experience deploying machine learning models in production at Airtel Digital, working on churn prediction, customer segmentation, and demand forecasting using real-world telecom data.
 
-Focused on:
+I specialize in building **end-to-end ML pipelines** — from data preprocessing and feature engineering to model deployment and business-facing insights.
 
-* Machine Learning in production
-* Data-driven decision systems
-* Deep learning for real-world applications
+---
+
+## 💼 Experience
+
+### 🚀 Data Analyst / ML Intern — Airtel Digital
+
+* Deployed 3 production ML models (churn prediction, segmentation, forecasting)
+* Used SHAP/LIME to explain model decisions to stakeholders
+* Automated ETL pipelines using Python & SQL
+* Built Power BI dashboards used by cross-functional teams
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Metal Surface Defect Classification
+### 🧠 Metal Surface Defect Classification (CNN)
 
-* CNN using PyTorch
-* 96.4% accuracy across 6 defect classes
-* Automated industrial quality inspection
+* Built custom CNN using PyTorch
+* Achieved **96.4% accuracy** across 6 defect classes
+* End-to-end GPU pipeline with data augmentation
 
 🔗 https://github.com/madhavgrover10/defect-classification-cnn
 
@@ -40,19 +47,19 @@ Focused on:
 
 ### 📊 Telecom Customer Churn Prediction
 
-* Gradient Boosting (ROC-AUC: 0.844)
-* SHAP-based interpretability
-* Business-focused insights
+* Gradient Boosting model (ROC-AUC: **0.844**)
+* SHAP-based interpretability for business insights
+* Resolved class imbalance using SMOTE
 
 🔗 https://github.com/madhavgrover10/Telecom-Churn-Prediction-ML
 
 ---
 
-### 📈 Demand Forecasting (Time-Series)
+### 📈 Telecom Demand Forecasting
 
-* ARIMA, SARIMA, Prophet
-* 14-day forward forecasting
-* Strong evaluation (SMAPE, RMSE)
+* Benchmarked ARIMA, SARIMA, Prophet
+* Best model: Prophet (**SMAPE: 16.07%**)
+* 14-day forward forecasting for operational planning
 
 🔗 https://github.com/madhavgrover10/demand-forecasting
 
@@ -65,6 +72,7 @@ Focused on:
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
@@ -81,10 +89,10 @@ Focused on:
 
 ---
 
-## ⚡ What I'm Working On
+## 🎯 Currently Working On
 
-* Building real-world ML applications
-* Improving model deployment workflows
-* Exploring advanced deep learning use cases
+* Deep learning for computer vision (segmentation models)
+* End-to-end ML systems and deployment
+* Real-world data science applications
 
 ---
