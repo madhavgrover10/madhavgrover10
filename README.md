@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhav Grover</h1>
-<h3 align="center">Data Scientist | Machine Learning | Production ML</h3>
+<h3 align="center">Data Analyst | Data Scientist | ML Engineer </h3>
 
 <p align="center">
   🚀 ML Models Deployed @ Airtel Digital &nbsp; | &nbsp;
